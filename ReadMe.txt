@@ -5,7 +5,7 @@ In this folder there are:
 				from website on demand
 
 Information about http://cn.sudokupuzzle.org:
-	This website updates Sudoku questions daily. So given the difficulty lever and a data
+	This website updates Sudoku questions daily. So given the difficulty level and a data
 	range, my program will be able to acquire many Sudoku testcases.
 
 Why I developed this program:
