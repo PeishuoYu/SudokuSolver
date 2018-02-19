@@ -5,10 +5,10 @@ In this folder there are:
 				from website on demand
 
 Information about http://cn.sudokupuzzle.org:
-	This website updates Sudoku questions daily. So given the difficulty level and a data
-	range, my program will be able to acquire many Sudoku testcases.
+	This website updates Sudoku questions daily. So given the difficulty level and a date
+	range, my program will be able to automatically acquire many Sudoku testcases.
 
 Why I developed this program:
-	My friend took a online test from deloitte, and there were Sudoku questions in it.
+	My friend took a online test from Deloitte, and there were Sudoku questions in it.
 	After hearing this, I wanted to challenge myself to see whether I could develop an 
 	efficient algorithm that can solve Sudoku questions. And finally I did it. 
